@@ -1,0 +1,135 @@
+5 py-16 sm:px-6 lg:px-8 lg:py-20">
+<h2 id="how-heading" class="font-display text-3xl font-semibold tracking-tight sm:text-4xl">How it works</h2>
+<ol class="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+<li class="border border-[#E4DCCE] bg-[#FFFCF7] p-5">
+<p class="font-display text-3xl font-semibold text-[#C4A35A]">1</p>
+<p class="mt-3 font-semibold">Tell us the bill and the address</p>
+</li>
+<li class="border border-[#E4DCCE] bg-[#FFFCF7] p-5">
+<p class="font-display text-3xl font-semibold text-[#C4A35A]">2</p>
+<p class="mt-3 font-semibold">We look at the roof and the switchboard</p>
+</li>
+<li class="border border-[#E4DCCE] bg-[#FFFCF7] p-5">
+<p class="font-display text-3xl font-semibold text-[#C4A35A]">3</p>
+<p class="mt-3 font-semibold">You get a written system and a price</p>
+</li>
+<li class="border border-[#E4DCCE] bg-[#FFFCF7] p-5">
+<p class="font-display text-3xl font-semibold text-[#C4A35A]">4</p>
+<p class="mt-3 font-semibold">We install, commission, and walk you through it</p>
+</li>
+</ol>
+</div>
+</section>
+<section id="finance" class="border-y border-[#E4DCCE] bg-[#FFFCF7]" aria-labelledby="finance-heading">
+<div class="mx-auto grid max-w-6xl gap-8 px-5 py-16 sm:px-6 lg:grid-cols-[1.4fr_0.6fr] lg:items-center lg:px-8 lg:py-20">
+<div>
+<h2 id="finance-heading" class="font-display text-3xl font-semibold tracking-tight sm:text-4xl">Green loans and Q Card, if you want them</h2>
+<p class="mt-4 max-w-2xl leading-relaxed text-[#5C564C]">We are not a lender. On home solar we can point you at a bank green loan or Q Card. Approval sits with them, not with us. Interest-free offers change — we will tell you what is current when we quote, not invent a term here.</p>
+<a class="mt-6 inline-flex bg-[#0B1F33] px-4 py-3 text-sm font-semibold text-[#F6F3EC] hover:bg-[#13293f]" href="#quote">Talk it through →</a>
+</div>
+<div class="space-y-3">
+<p class="border border-[#E4DCCE] bg-[#F6F3EC] px-4 py-4 text-sm font-semibold">Bank green loan</p>
+<p class="border border-[#E4DCCE] bg-[#F6F3EC] px-4 py-4 text-sm font-semibold">Q Card</p>
+<p class="text-xs text-[#5C564C]">Words only. Approval sits with the lender.</p>
+</div>
+</div>
+</section>
+<section class="bg-[#F6F3EC]" aria-labelledby="faq-heading">
+<div class="mx-auto max-w-3xl px-5 py-16 sm:px-6 lg:px-8 lg:py-20">
+<h2 id="faq-heading" class="font-display text-3xl font-semibold tracking-tight sm:text-4xl">FAQ</h2>
+<div class="mt-6 border-t border-[#E4DCCE]">
+<div class="border-b border-[#E4DCCE]">
+<h3>
+<button type="button" class="flex w-full items-center justify-between gap-4 py-4 text-left font-semibold" data-faq-btn aria-expanded="true" aria-controls="faq-1" id="faq-btn-1">
+Will it run the house at night?
+<svg data-faq-icon class="faq-icon is-open h-5 w-5 shrink-0 text-[#C4A35A]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke-linecap="round" /></svg>
+</button>
+</h3>
+<div id="faq-1" role="region" aria-labelledby="faq-btn-1" class="pb-4 text-sm leading-relaxed text-[#5C564C]">
+A grid-tie system does not. A battery covers part of the evening, or selected circuits in an outage if we spec it that way.
+</div>
+</div>
+<div class="border-b border-[#E4DCCE]">
+<h3>
+<button type="button" class="flex w-full items-center justify-between gap-4 py-4 text-left font-semibold" data-faq-btn aria-expanded="false" aria-controls="faq-2" id="faq-btn-2">
+What if the roof is shaded or tired?
+<svg data-faq-icon class="faq-icon h-5 w-5 shrink-0 text-[#C4A35A]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke-linecap="round" /></svg>
+</button>
+</h3>
+<div id="faq-2" role="region" aria-labelledby="faq-btn-2" class="pb-4 text-sm leading-relaxed text-[#5C564C]" hidden>
+We say so. Shade and old iron change the design. Sometimes the honest answer is a smaller system, or not yet.
+</div>
+</div>
+<div class="border-b border-[#E4DCCE]">
+<h3>
+<button type="button" class="flex w-full items-center justify-between gap-4 py-4 text-left font-semibold" data-faq-btn aria-expanded="false" aria-controls="faq-3" id="faq-btn-3">
+Do you do farms and sheds?
+<svg data-faq-icon class="faq-icon h-5 w-5 shrink-0 text-[#C4A35A]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke-linecap="round" /></svg>
+</button>
+</h3>
+<div id="faq-3" role="region" aria-labelledby="faq-btn-3" class="pb-4 text-sm leading-relaxed text-[#5C564C]" hidden>
+Yes. House, lifestyle block, farm and small commercial. Big generation plants are not this page.
+</div>
+</div>
+<div class="border-b border-[#E4DCCE]">
+<h3>
+<button type="button" class="flex w-full items-center justify-between gap-4 py-4 text-left font-semibold" data-faq-btn aria-expanded="false" aria-controls="faq-4" id="faq-btn-4">
+How long does an install take?
+<svg data-faq-icon class="faq-icon h-5 w-5 shrink-0 text-[#C4A35A]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke-linecap="round" /></svg>
+</button>
+</h3>
+<div id="faq-4" role="region" aria-labelledby="faq-btn-4" class="pb-4 text-sm leading-relaxed text-[#5C564C]" hidden>
+A straightforward home is often a day or two on site, after the gear and any lines-company approval. We do not lock a day until we have seen the place.
+</div>
+</div>
+<div class="border-b border-[#E4DCCE]">
+<h3>
+<button type="button" class="flex w-full items-center justify-between gap-4 py-4 text-left font-semibold" data-faq-btn aria-expanded="false" aria-controls="faq-5" id="faq-btn-5">
+What does the quote include?
+<svg data-faq-icon class="faq-icon h-5 w-5 shrink-0 text-[#C4A35A]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke-linecap="round" /></svg>
+</button>
+</h3>
+<div id="faq-5" role="region" aria-labelledby="faq-btn-5" class="pb-4 text-sm leading-relaxed text-[#5C564C]" hidden>
+System, labour, and what is and is not in the switchboard work. Written. No obligation.
+</div>
+</div>
+<div class="border-b border-[#E4DCCE]">
+<h3>
+<button type="button" class="flex w-full items-center justify-between gap-4 py-4 text-left font-semibold" data-faq-btn aria-expanded="false" aria-controls="faq-6" id="faq-btn-6">
+Is this a hard sell?
+<svg data-faq-icon class="faq-icon h-5 w-5 shrink-0 text-[#C4A35A]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke-linecap="round" /></svg>
+</button>
+</h3>
+<div id="faq-6" role="region" aria-labelledby="faq-btn-6" class="pb-4 text-sm leading-relaxed text-[#5C564C]" hidden>
+No. No Sunday sales calls. If the numbers are ordinary, we tell you.
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="quote" class="border-t border-[#E4DCCE] bg-[#F6F3EC]" aria-labelledby="quote-heading">
+<div class="mx-auto max-w-2xl px-5 py-16 sm:px-6 lg:py-20">
+<h2 id="quote-heading" class="font-display text-3xl font-semibold tracking-tight sm:text-4xl">Get a quote</h2>
+<p class="mt-3 text-sm text-[#5C564C]">We use what you send to ring you back. Nothing leaves this page.</p>
+<div class="mt-6 border border-[#E4DCCE] border-t-4 border-t-[#C4A35A] bg-[#FFFCF7] p-5 sm:p-7">
+<div id="quote-progress">
+<p id="progress-text" class="text-sm font-semibold" aria-live="polite">Step 1 of 4.</p>
+<div
+id="progress-bar"
+class="mt-3 h-1.5 bg-[#E4DCCE]"
+role="progressbar"
+aria-valuemin="1"
+aria-valuemax="4"
+aria-valuenow="1"
+aria-valuetext="Step 1 of 4."
+>
+<div id="progress-fill" class="h-1.5 bg-[#C4A35A]" style="width: 25%"></div>
+</div>
+</div>
+<form id="quote-form" class="mt-6" novalidate onsubmit="return false">
+<div data-step="1">
+<h3 class="step-title font-display text-xl font-semibold" tabindex="-1">What are we powering?</h3>
+<fieldset class="mt-4">
+<legend class="sr-only">What are we powering?</legend>
+<div class="grid gap-2 sm:grid-cols-2">
+<label class="choice re
